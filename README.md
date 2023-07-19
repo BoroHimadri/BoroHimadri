@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BoroHimadri
-- 👀 I’m interested in both frontEnd a backEnd development 
+- 👀 I’m interested in both frontEnd and backEnd development 
 - 🌱 I’m currently learning ReactJs as much as possible.
 - 📫 How to reach me ...
 
